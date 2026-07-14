@@ -388,6 +388,15 @@ ai-study/
 - [ ] 每课完成代码、练习、测验和复盘。
 - [ ] 每完成一个阶段，先通过验收或理解测试，再进入下一阶段。
 
+## 致谢
+
+本指南的主要课程资源与学习路线参考了以下开源项目。在此特别感谢项目作者和所有贡献者的开放分享与持续维护：
+
+- [fancyboi999/ai-engineering-from-scratch-zh](https://github.com/fancyboi999/ai-engineering-from-scratch-zh)：为中文学习者提供了系统的 AI 工程课程翻译、本地化内容与配套学习网站。
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)：提供了从基础原理出发、通过动手实现学习 AI 工程的原始开源课程体系。
+
+感谢上述项目让高质量的人工智能学习资源能够被更多学习者自由获取和使用。引用或使用相关内容时，请遵守各项目的开源许可证及署名要求。
+
 ---
 
 **记住：学习完成的标志不是“看过”，而是“能解释、能运行、能修改、能完成练习”。**
